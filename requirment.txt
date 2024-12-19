@@ -1,0 +1,4 @@
+!!!물리보안 이슈
+# pip install packagename --trusted-host pypi.python.org --trusted-host files.pythonhosted.org --trusted-host pypi.org
+
+findspark
